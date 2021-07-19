@@ -12,12 +12,12 @@
   },
   "Devices": [
     {
-      "DevAddr": "00000004",
-      "DevEUI": "0000000000000004",
-      "AppKey": "00000000000000040000000000000004",
-      "AppEUI": "",
-      "NwkSKey": "00000000000000040000000000000004",
-      "AppSKey": "00000000000000040000000000000004",
+      "DevAddr": "",
+      "DevEUI": "2800430068C8AA47",
+      "AppKey": "8AFE71A145B253E49C3031AD068277A1",
+      "AppEUI": "BE7A0000000014E2",
+      "NwkSKey": "",
+      "AppSKey": "",
       "NetId": "",
       "DevNonce": "",
       "Interval": "30",
@@ -27,9 +27,9 @@
     },
     {
       "DevAddr": "",
-      "DevEUI": "0000000000000003",
-      "AppKey": "00000000000000030000000000000003",
-      "AppEUI": "0000000000000002",
+      "DevEUI": "47AAC86800430028",
+      "AppKey": "8AFE71A145B253E49C3031AD068277A1",
+      "AppEUI": "BE7A0000000014E2",
       "NwkSKey": "",
       "AppSKey": "",
       "NetId": "",
@@ -39,36 +39,7 @@
       "FrmCntDown": "0",
       "RandomInterval": "5",
       "GroupRxpk": ""
-    },
-    {
-      "DevAddr": "",
-      "DevEUI": "0000000000000002",
-      "AppKey": "00000000000000020000000000000002",
-      "AppEUI": "0000000000000002",
-      "NwkSKey": "",
-      "AppSKey": "",
-      "NetId": "",
-      "DevNonce": "",
-      "Interval": "25",
-      "FrmCntUp": "0",
-      "FrmCntDown": "0",
-      "RandomInterval": "0",
-      "GroupRxpk": "1"
-    },
-    {
-      "DevAddr": "",
-      "DevEUI": "0000000000000001",
-      "AppKey": "00000000000000010000000000000001",
-      "AppEUI": "0000000000000001",
-      "NwkSKey": "",
-      "AppSKey": "",
-      "NetId": "",
-      "DevNonce": "",
-      "Interval": "15",
-      "FrmCntUp": "1",
-      "FrmCntDown": "0",
-      "RandomInterval": "0",
-      "GroupRxpk": "1"
     }
+    
   ]
 }

@@ -1,4 +1,11 @@
 {
-    "azureFunctions.projectLanguage": "C#Script",
-    "azureFunctions.projectRuntime": "beta"
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~3",
+    "azureFunctions.deploySubpath": "LoraKeysManagerFacade/bin/Release/netcoreapp3.1/publish",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "publish (functions)",
+    "azure-iot-edge.defaultPlatform": {
+        "platform": "arm32v7",
+        "alias": null
+    }
 }
