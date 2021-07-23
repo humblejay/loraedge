@@ -24,21 +24,6 @@
       "FrmCntUp": "0",
       "FrmCntDown": "0",
       "RandomInterval": "3"
-    },
-    {
-      "DevAddr": "",
-      "DevEUI": "47AAC86800430028",
-      "AppKey": "8AFE71A145B253E49C3031AD068277A1",
-      "AppEUI": "BE7A0000000014E2",
-      "NwkSKey": "",
-      "AppSKey": "",
-      "NetId": "",
-      "DevNonce": "",
-      "Interval": "60",
-      "FrmCntUp": "0",
-      "FrmCntDown": "0",
-      "RandomInterval": "5",
-      "GroupRxpk": ""
     }
     
   ]

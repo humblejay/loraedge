@@ -1,5 +1,6 @@
 
-#include <LoRaWan.h>
+#include <ESP32_LoRaWAN.h>
+//<LoRaWan.h>
 //set to true to send confirmed data up messages
 bool confirmed=false;
 //application information, should be similar to what was provisiionned in the device twins

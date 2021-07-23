@@ -7,7 +7,7 @@
             "enable": true,
             "type": "SX1257",
             "freq": 902700000,
-            "rssi_offset": -166.0,
+            "rssi_offset": -164.0,
             "tx_enable": true,
             "tx_freq_min": 902000000,
             "tx_freq_max": 928000000
@@ -16,7 +16,7 @@
             "enable": true,
             "type": "SX1257",
             "freq": 903400000,
-            "rssi_offset": -166.0,
+            "rssi_offset": -164.0,
             "tx_enable": false
         },
         "chan_multiSF_0": {
@@ -198,15 +198,15 @@
     },
 
     "gateway_conf": {
-        "gateway_ID": "AA555A0000000000",
+        "gateway_ID": "AA555A0000000111",
         /* change with default server address/ports, or overwrite in local_conf.json */
-        "server_address": "192.168.86.31",
+        "server_address": "localhost",
         "serv_port_up": 1680,
         "serv_port_down": 1680,
         /* adjust the following parameters for your network */
         "keepalive_interval": 10,
         "stat_interval": 30,
-        "push_timeout_ms": 100,
+        "push_timeout_ms": 150,
         /* forward only valid packets */
         "forward_crc_valid": true,
         "forward_crc_error": false,
