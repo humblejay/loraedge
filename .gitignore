@@ -302,3 +302,6 @@ Tools/Cli-LoRa-Device-Provisioning/settings\.local\.json
 
 #codecs 
 **/codecs
+
+.ionide
+Tools/Cli-LoRa-Device-Provisioning/appsettings.json
